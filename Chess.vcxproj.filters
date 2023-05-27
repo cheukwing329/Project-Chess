@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source File">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header\bishop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\human.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\king.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\knight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\machine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\pawn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\piece.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\queen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\rook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\bishop.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\board.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\game.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\human.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\king.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\knight.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\machine.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\pawn.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\piece.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\player.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\queen.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\rook.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
